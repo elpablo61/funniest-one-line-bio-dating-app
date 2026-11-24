@@ -1,0 +1,1 @@
+{"description":"One-line dating-app bio for an AI agent — make.fun bounty entry","engines":{"node":">=22.18"},"license":"MIT","name":"funniest-one-line-bio-dating-app","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
